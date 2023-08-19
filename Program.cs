@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ArvotJaLaskutoimitus
+namespace TehtavaB8
 {
     class Program
     {
